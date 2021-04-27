@@ -1,0 +1,16 @@
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\bin\Debug\net5.0\algorithms_lesson_4.exe
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\bin\Debug\net5.0\algorithms_lesson_4.deps.json
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\bin\Debug\net5.0\algorithms_lesson_4.runtimeconfig.json
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\bin\Debug\net5.0\algorithms_lesson_4.runtimeconfig.dev.json
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\bin\Debug\net5.0\algorithms_lesson_4.dll
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\bin\Debug\net5.0\ref\algorithms_lesson_4.dll
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\bin\Debug\net5.0\algorithms_lesson_4.pdb
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\obj\Debug\net5.0\algorithms_lesson_4.csprojAssemblyReference.cache
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\obj\Debug\net5.0\algorithms_lesson_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\obj\Debug\net5.0\algorithms_lesson_4.AssemblyInfoInputs.cache
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\obj\Debug\net5.0\algorithms_lesson_4.AssemblyInfo.cs
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\obj\Debug\net5.0\algorithms_lesson_4.csproj.CoreCompileInputs.cache
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\obj\Debug\net5.0\algorithms_lesson_4.dll
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\obj\Debug\net5.0\ref\algorithms_lesson_4.dll
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\obj\Debug\net5.0\algorithms_lesson_4.pdb
+D:\Repositories\GeekBrains\algorithms\lesson 4\algorithms_lesson_4\algorithms_lesson_4\obj\Debug\net5.0\algorithms_lesson_4.genruntimeconfig.cache
